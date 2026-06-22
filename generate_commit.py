@@ -97,7 +97,7 @@ response = requests.post(
         "content-type": "application/json",
     },
     json={
-        "model": "claude-haiku-4-5-20251001",
+        "model": "claude-haiku-4-5",
         "max_tokens": 600,
         "messages": [{"role": "user", "content": PROMPT}],
     },
