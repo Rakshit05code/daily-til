@@ -8,17 +8,10 @@ import requests
 import datetime
 import os
 import pathlib
-import json
-import random
 
 API_KEY = os.environ["ANTHROPIC_KEY"]
 TODAY = datetime.date.today().isoformat()
 DAY_OF_YEAR = datetime.date.today().timetuple().tm_yday
-
-# ─── Topic rotation ───────────────────────────────────────────────────────────
-# Alternates between cybersecurity and frontend topics each day
-# Cybersecurity topics impress Big Tech security teams
-# Frontend topics show breadth for SWE/SDE roles
 
 CYBERSEC_TOPICS = [
     "XSS (Cross-Site Scripting) attack vectors and how to prevent them in modern web apps",
@@ -56,7 +49,6 @@ FRONTEND_TOPICS = [
     "How browser caching works — Cache-Control, ETag, and cache busting",
 ]
 
-# Pick topic: odd days = cybersec, even days = frontend
 if DAY_OF_YEAR % 2 == 1:
     category = "cybersecurity"
     topic = CYBERSEC_TOPICS[DAY_OF_YEAR % len(CYBERSEC_TOPICS)]
@@ -68,8 +60,6 @@ else:
     folder_name = "frontend"
     emoji = "🖥️"
 
-# ─── Prompt ───────────────────────────────────────────────────────────────────
-
 PROMPT = f"""Write a short, high-quality "Today I Learned" technical post about:
 
 Topic: {topic}
@@ -79,15 +69,21 @@ Format it as clean markdown with:
 1. A clear H2 title (no H1)
 2. A 2-3 sentence explanation of what this is and why it matters
 3. One concrete real-world scenario or attack/bug example
-4. A code snippet (10-20 lines max) demonstrating the concept — use JavaScript, Python, or Bash as appropriate
+4. A code snippet (10-20 lines max) demonstrating the concept
 5. One "Key takeaway" line at the end
 
-Tone: concise, practical, like a senior engineer's notes. No fluff.
+Tone: concise, practical, like a senior engineer notes. No fluff.
 Output raw markdown only. No preamble."""
 
-# ─── Call Claude API ──────────────────────────────────────────────────────────
-
 print(f"Generating {category} post: {topic[:50]}...")
+
+payload = {
+    "model": "claude-haiku-4-5",
+    "max_tokens": 600,
+    "messages": [{"role": "user", "content": PROMPT}],
+}
+
+print(f"Request payload (no key): model={payload['model']}, max_tokens={payload['max_tokens']}")
 
 response = requests.post(
     "https://api.anthropic.com/v1/messages",
@@ -96,29 +92,23 @@ response = requests.post(
         "anthropic-version": "2023-06-01",
         "content-type": "application/json",
     },
-    json={
-        "model": "claude-haiku-4-5",
-        "max_tokens": 600,
-        "messages": [{"role": "user", "content": PROMPT}],
-    },
+    json=payload,
     timeout=30,
 )
 
-response.raise_for_status()
-content = response.json()["content"][0]["text"]
+print(f"Response status: {response.status_code}")
+if response.status_code != 200:
+    print(f"Error body: {response.text}")
+    raise Exception(f"API error {response.status_code}: {response.text}")
 
-# ─── Save file ────────────────────────────────────────────────────────────────
+content = response.json()["content"][0]["text"]
 
 folder = pathlib.Path("til") / folder_name
 folder.mkdir(parents=True, exist_ok=True)
 
 filename = folder / f"{TODAY}.md"
 filename.write_text(f"<!-- category: {category} | generated: {TODAY} -->\n\n{content}\n")
-
 print(f"Written: {filename}")
-
-# ─── Update README index ──────────────────────────────────────────────────────
-# Keeps a running log so your repo README always shows recent activity
 
 index_file = pathlib.Path("README.md")
 
@@ -127,12 +117,10 @@ if index_file.exists():
 else:
     existing = "# Daily TIL — Cybersecurity & Frontend\n\nAutomated daily notes on security and web development.\n\n## Recent entries\n\n"
 
-# Insert new entry after "## Recent entries" header
 entry_line = f"- **{TODAY}** [{emoji} {category.capitalize()}] `til/{folder_name}/{TODAY}.md` — {topic[:60]}...\n"
 
 if "## Recent entries" in existing:
     parts = existing.split("## Recent entries\n\n")
-    # Keep only last 30 entries to avoid bloat
     recent_lines = parts[1].strip().split("\n") if len(parts) > 1 else []
     recent_lines = [entry_line.strip()] + recent_lines[:29]
     index_file.write_text(parts[0] + "## Recent entries\n\n" + "\n".join(recent_lines) + "\n")
