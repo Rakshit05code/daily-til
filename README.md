@@ -4,3 +4,4 @@
 - `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
 - `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
 - `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
+- `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
