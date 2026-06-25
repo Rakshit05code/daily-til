@@ -6,3 +6,4 @@
 - `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
 - `2026-06-24` 💡 **snippet** — IDOR (Insecure Direct Object Reference)
 - `2026-06-25` 🔧 **tooling** — bcrypt vs argon2 password hashing
+- `2026-06-25` 🔐 **security** — XXE injection
