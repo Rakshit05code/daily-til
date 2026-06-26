@@ -15,3 +15,4 @@
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
+- `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
