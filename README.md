@@ -13,3 +13,4 @@
 - `2026-06-25` 🔐 **security** — XXE injection
 - `2026-06-26` 💡 **snippet** — JWT security pitfalls
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
+- `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
