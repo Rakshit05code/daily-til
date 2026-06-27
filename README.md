@@ -18,3 +18,4 @@
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
 - `2026-06-26` 📋 **cheatsheet** — Same-origin policy explained
 - `2026-06-27` 📋 **cheatsheet** — HTTP security headers checklist
+- `2026-06-27` 🛠️ **project** — Session fixation attacks
