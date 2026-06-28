@@ -23,3 +23,4 @@
 - `2026-06-27` 📋 **cheatsheet** — HTTP security headers checklist
 - `2026-06-27` 📋 **cheatsheet** — HTTP security headers checklist
 - `2026-06-27` 📋 **cheatsheet** — HTTP security headers checklist
+- `2026-06-28` 📋 **cheatsheet** — Clickjacking and X-Frame-Options
