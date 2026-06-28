@@ -28,3 +28,4 @@
 - `2026-06-28` 🛠️ **project** — HTTP security headers checklist
 - `2026-06-28` 🛠️ **project** — HTTP security headers checklist
 - `2026-06-28` 🛠️ **project** — HTTP security headers checklist
+- `2026-06-28` 🛠️ **project** — HTTP security headers checklist
