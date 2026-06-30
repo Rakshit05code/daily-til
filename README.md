@@ -36,3 +36,4 @@
 - `2026-06-29` 📋 **cheatsheet** — Rate limiting vs brute force
 - `2026-06-30` 🛠️ **project** — Insecure deserialization
 - `2026-06-30` 📚 **til** — JWT security pitfalls
+- `2026-06-30` 📚 **til** — JWT security pitfalls
