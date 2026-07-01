@@ -43,3 +43,4 @@
 - `2026-07-01` 🧮 **algorithm** — Content Security Policy deep dive
 - `2026-07-01` 🧮 **algorithm** — Content Security Policy deep dive
 - `2026-07-01` 🧮 **algorithm** — Content Security Policy deep dive
+- `2026-07-01` 🧮 **algorithm** — Content Security Policy deep dive
