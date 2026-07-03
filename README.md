@@ -56,3 +56,4 @@
 - `2026-07-03` 📚 **til** — HTTP security headers checklist
 - `2026-07-03` 📚 **til** — HTTP security headers checklist
 - `2026-07-03` 📚 **til** — HTTP security headers checklist
+- `2026-07-03` 📚 **til** — HTTP security headers checklist
