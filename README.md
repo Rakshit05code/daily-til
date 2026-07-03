@@ -52,3 +52,4 @@
 - `2026-07-02` 💡 **snippet** — Open redirect vulnerabilities
 - `2026-07-02` 💡 **snippet** — Open redirect vulnerabilities
 - `2026-07-03` 📚 **til** — HTTP security headers checklist
+- `2026-07-03` 📚 **til** — HTTP security headers checklist
