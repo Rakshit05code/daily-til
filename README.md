@@ -65,3 +65,4 @@
 - `2026-07-04` 🛠️ **project** — Prototype pollution in JavaScript
 - `2026-07-05` 🧮 **algorithm** — SSRF vulnerabilities
 - `2026-07-05` 🔧 **tooling** — XXE injection
+- `2026-07-05` 🧮 **algorithm** — SSRF vulnerabilities
