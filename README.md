@@ -69,3 +69,4 @@
 - `2026-07-05` 🧮 **algorithm** — SSRF vulnerabilities
 - `2026-07-05` 🧮 **algorithm** — SSRF vulnerabilities
 - `2026-07-05` 🧮 **algorithm** — SSRF vulnerabilities
+- `2026-07-06` 📋 **cheatsheet** — Content Security Policy deep dive
