@@ -76,3 +76,4 @@
 - `2026-07-07` 💡 **snippet** — SQL injection and parameterized queries
 - `2026-07-07` 📓 **data** — Same-origin policy explained
 - `2026-07-07` 📓 **data** — Same-origin policy explained
+- `2026-07-07` 📓 **data** — Same-origin policy explained
