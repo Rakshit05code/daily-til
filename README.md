@@ -73,3 +73,4 @@
 - `2026-07-06` 📋 **cheatsheet** — Content Security Policy deep dive
 - `2026-07-06` 📋 **cheatsheet** — Content Security Policy deep dive
 - `2026-07-06` 📋 **cheatsheet** — Content Security Policy deep dive
+- `2026-07-07` 💡 **snippet** — SQL injection and parameterized queries
