@@ -90,3 +90,4 @@
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
+- `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
