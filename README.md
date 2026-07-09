@@ -88,3 +88,4 @@
 - `2026-07-09` 📚 **til** — XXE injection
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
+- `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
