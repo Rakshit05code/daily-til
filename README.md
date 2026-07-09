@@ -85,3 +85,4 @@
 - `2026-07-08` 🔐 **security** — HTTP security headers checklist
 - `2026-07-08` 🔐 **security** — HTTP security headers checklist
 - `2026-07-08` 🔐 **security** — HTTP security headers checklist
+- `2026-07-09` 📚 **til** — XXE injection
