@@ -92,3 +92,4 @@
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
 - `2026-07-09` 📋 **cheatsheet** — Security misconfigurations in cloud
 - `2026-07-10` 📚 **til** — SQL injection and parameterized queries
+- `2026-07-10` 📚 **til** — SQL injection and parameterized queries
