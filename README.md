@@ -94,3 +94,4 @@
 - `2026-07-10` 📚 **til** — SQL injection and parameterized queries
 - `2026-07-10` 📚 **til** — SQL injection and parameterized queries
 - `2026-07-10` 📚 **til** — SQL injection and parameterized queries
+- `2026-07-10` 📚 **til** — SQL injection and parameterized queries
