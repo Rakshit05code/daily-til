@@ -98,3 +98,4 @@
 - `2026-07-10` 📚 **til** — SQL injection and parameterized queries
 - `2026-07-11` 📓 **data** — Intersection Observer API
 - `2026-07-11` 🔐 **security** — Prototype pollution in JavaScript
+- `2026-07-11` 📚 **til** — JWT security pitfalls
