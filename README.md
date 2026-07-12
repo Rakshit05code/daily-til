@@ -105,3 +105,4 @@
 - `2026-07-12` 📋 **cheatsheet** — XXE injection
 - `2026-07-12` 🛠️ **project** — Directory traversal attacks
 - `2026-07-12` 🛠️ **project** — Directory traversal attacks
+- `2026-07-12` 🛠️ **project** — Directory traversal attacks
