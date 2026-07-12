@@ -101,3 +101,4 @@
 - `2026-07-11` 📚 **til** — JWT security pitfalls
 - `2026-07-11` 📚 **til** — JWT security pitfalls
 - `2026-07-11` 📚 **til** — JWT security pitfalls
+- `2026-07-12` 🛠️ **project** — Directory traversal attacks
