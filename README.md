@@ -108,3 +108,4 @@
 - `2026-07-12` 🛠️ **project** — Directory traversal attacks
 - `2026-07-12` 🛠️ **project** — Directory traversal attacks
 - `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
+- `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
