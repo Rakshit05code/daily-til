@@ -118,3 +118,4 @@
 - `2026-07-14` 📚 **til** — TLS handshake and certificate pinning
 - `2026-07-14` 📚 **til** — TLS handshake and certificate pinning
 - `2026-07-14` 📚 **til** — TLS handshake and certificate pinning
+- `2026-07-14` 📚 **til** — TLS handshake and certificate pinning
