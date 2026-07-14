@@ -113,3 +113,4 @@
 - `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
 - `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
 - `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
+- `2026-07-14` 🧮 **algorithm** — JavaScript closures
