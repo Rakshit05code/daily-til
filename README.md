@@ -115,3 +115,4 @@
 - `2026-07-13` 📋 **cheatsheet** — bcrypt vs argon2 password hashing
 - `2026-07-14` 🧮 **algorithm** — JavaScript closures
 - `2026-07-14` 📋 **cheatsheet** — OWASP Broken Access Control
+- `2026-07-14` 📚 **til** — TLS handshake and certificate pinning
