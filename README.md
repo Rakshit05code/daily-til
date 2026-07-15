@@ -122,3 +122,4 @@
 - `2026-07-15` 🔧 **tooling** — Web accessibility ARIA patterns
 - `2026-07-15` 🔐 **security** — XSS attack vectors and DOM-based prevention
 - `2026-07-15` 🔐 **security** — XSS attack vectors and DOM-based prevention
+- `2026-07-15` 🔐 **security** — XSS attack vectors and DOM-based prevention
