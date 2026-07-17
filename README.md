@@ -132,3 +132,4 @@
 - `2026-07-17` 💡 **snippet** — Browser caching strategies
 - `2026-07-17` 🛠️ **project** — OWASP Broken Access Control
 - `2026-07-17` 📋 **cheatsheet** — Session fixation attacks
+- `2026-07-17` 📋 **cheatsheet** — Session fixation attacks
