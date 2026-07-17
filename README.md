@@ -130,3 +130,4 @@
 - `2026-07-16` 🔧 **tooling** — XSS attack vectors and DOM-based prevention
 - `2026-07-16` 🔧 **tooling** — XSS attack vectors and DOM-based prevention
 - `2026-07-17` 💡 **snippet** — Browser caching strategies
+- `2026-07-17` 🛠️ **project** — OWASP Broken Access Control

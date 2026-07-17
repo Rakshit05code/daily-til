@@ -1,5 +1,5 @@
-<!-- type:project slot:0 date:2026-07-04 -->
+<!-- type:project slot:2 date:2026-07-17 -->
 
-## Prototype pollution in JavaScript
+## OWASP Broken Access Control
 
 Placeholder — add GEMINI_KEY secret to enable AI generation.
