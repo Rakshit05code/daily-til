@@ -144,3 +144,4 @@
 - `2026-07-19` 📚 **til** — SQL injection and parameterized queries
 - `2026-07-19` 🛠️ **project** — OWASP Broken Access Control
 - `2026-07-19` 🛠️ **project** — OWASP Broken Access Control
+- `2026-07-19` 🛠️ **project** — OWASP Broken Access Control
