@@ -148,3 +148,4 @@
 - `2026-07-19` 🛠️ **project** — OWASP Broken Access Control
 - `2026-07-20` 📓 **data** — bcrypt vs argon2 password hashing
 - `2026-07-20` 📋 **cheatsheet** — Session fixation attacks
+- `2026-07-20` 📓 **data** — bcrypt vs argon2 password hashing
