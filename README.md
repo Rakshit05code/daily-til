@@ -153,3 +153,4 @@
 - `2026-07-20` 📓 **data** — bcrypt vs argon2 password hashing
 - `2026-07-20` 📓 **data** — bcrypt vs argon2 password hashing
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
+- `2026-07-21` 🛠️ **project** — Same-origin policy explained
