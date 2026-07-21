@@ -157,3 +157,4 @@
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
+- `2026-07-21` 🔐 **security** — HTTP security headers checklist
