@@ -162,3 +162,4 @@
 - `2026-07-22` 🔧 **tooling** — XSS attack vectors and DOM-based prevention
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
+- `2026-07-22` 🔐 **security** — Broken cryptography patterns
