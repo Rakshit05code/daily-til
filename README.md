@@ -159,3 +159,4 @@
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
 - `2026-07-21` 🔐 **security** — HTTP security headers checklist
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
+- `2026-07-22` 🔧 **tooling** — XSS attack vectors and DOM-based prevention
