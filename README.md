@@ -164,3 +164,4 @@
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
 - `2026-07-22` 🔐 **security** — Broken cryptography patterns
+- `2026-07-23` 🔧 **tooling** — TLS handshake and certificate pinning
