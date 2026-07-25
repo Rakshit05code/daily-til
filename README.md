@@ -178,3 +178,4 @@
 - `2026-07-24` 🛠️ **project** — Session fixation attacks
 - `2026-07-25` 🔧 **tooling** — CORS misconfigurations
 - `2026-07-25` 💡 **snippet** — Session fixation attacks
+- `2026-07-25` 🔧 **tooling** — CORS misconfigurations
