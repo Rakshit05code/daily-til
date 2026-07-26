@@ -186,3 +186,4 @@
 - `2026-07-26` 🧮 **algorithm** — JWT security pitfalls
 - `2026-07-26` 🔐 **security** — XXE injection
 - `2026-07-26` 🔐 **security** — XXE injection
+- `2026-07-26` 🔐 **security** — XXE injection
