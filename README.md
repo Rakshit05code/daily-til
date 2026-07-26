@@ -187,3 +187,4 @@
 - `2026-07-26` 🔐 **security** — XXE injection
 - `2026-07-26` 🔐 **security** — XXE injection
 - `2026-07-26` 🔐 **security** — XXE injection
+- `2026-07-26` 🔐 **security** — XXE injection
