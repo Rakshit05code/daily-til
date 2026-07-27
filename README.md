@@ -193,3 +193,4 @@
 - `2026-07-27` 🧮 **algorithm** — XXE injection
 - `2026-07-27` 🧮 **algorithm** — XXE injection
 - `2026-07-27` 🧮 **algorithm** — XXE injection
+- `2026-07-27` 🧮 **algorithm** — XXE injection
