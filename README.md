@@ -198,3 +198,4 @@
 - `2026-07-28` 🧮 **algorithm** — Directory traversal attacks
 - `2026-07-28` 🔐 **security** — Rate limiting vs brute force
 - `2026-07-28` 🔐 **security** — Rate limiting vs brute force
+- `2026-07-28` 🔐 **security** — Rate limiting vs brute force
