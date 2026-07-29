@@ -201,3 +201,4 @@
 - `2026-07-28` 🔐 **security** — Rate limiting vs brute force
 - `2026-07-28` 🔐 **security** — Rate limiting vs brute force
 - `2026-07-29` 📋 **cheatsheet** — TLS handshake and certificate pinning
+- `2026-07-29` 🧮 **algorithm** — Directory traversal attacks
