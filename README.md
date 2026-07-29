@@ -203,3 +203,4 @@
 - `2026-07-29` 📋 **cheatsheet** — TLS handshake and certificate pinning
 - `2026-07-29` 🧮 **algorithm** — Directory traversal attacks
 - `2026-07-29` 📋 **cheatsheet** — TLS handshake and certificate pinning
+- `2026-07-29` 📋 **cheatsheet** — TLS handshake and certificate pinning
