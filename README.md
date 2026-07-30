@@ -208,3 +208,4 @@
 - `2026-07-29` 📋 **cheatsheet** — TLS handshake and certificate pinning
 - `2026-07-30` 🛠️ **project** — TLS handshake and certificate pinning
 - `2026-07-30` 🧮 **algorithm** — XSS attack vectors and DOM-based prevention
+- `2026-07-30` 🛠️ **project** — TLS handshake and certificate pinning
