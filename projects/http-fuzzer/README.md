@@ -1,5 +1,5 @@
-<!-- type:project slot:0 date:2026-06-28 -->
+<!-- type:project slot:2 date:2026-07-31 -->
 
-## HTTP security headers checklist
+## Insecure deserialization
 
 Placeholder — add GEMINI_KEY secret to enable AI generation.
