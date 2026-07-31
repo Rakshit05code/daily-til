@@ -217,3 +217,4 @@
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
+- `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
