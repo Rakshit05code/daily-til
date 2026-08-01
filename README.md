@@ -218,3 +218,4 @@
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
+- `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
