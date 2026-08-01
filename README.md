@@ -223,3 +223,4 @@
 - `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
 - `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
 - `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
+- `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
