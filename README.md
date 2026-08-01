@@ -220,3 +220,4 @@
 - `2026-07-31` 📋 **cheatsheet** — Insecure deserialization
 - `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
 - `2026-08-01` 📋 **cheatsheet** — SQL injection and parameterized queries
+- `2026-08-01` 💡 **snippet** — Subdomain takeover vulnerabilities
