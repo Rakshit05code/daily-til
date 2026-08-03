@@ -231,3 +231,4 @@
 - `2026-08-02` 🔧 **tooling** — SQL injection and parameterized queries
 - `2026-08-03` 🔐 **security** — Open redirect vulnerabilities
 - `2026-08-03` 🔐 **security** — Open redirect vulnerabilities
+- `2026-08-03` 🔐 **security** — Open redirect vulnerabilities
