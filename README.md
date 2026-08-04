@@ -238,3 +238,4 @@
 - `2026-08-04` 💡 **snippet** — XXE injection
 - `2026-08-04` 🔧 **tooling** — XXE injection
 - `2026-08-04` 💡 **snippet** — XXE injection
+- `2026-08-04` 💡 **snippet** — XXE injection
