@@ -241,3 +241,4 @@
 - `2026-08-04` 💡 **snippet** — XXE injection
 - `2026-08-04` 💡 **snippet** — XXE injection
 - `2026-08-04` 💡 **snippet** — XXE injection
+- `2026-08-05` 🧮 **algorithm** — OAuth 2.0 security pitfalls
