@@ -249,3 +249,4 @@
 - `2026-08-05` 🧮 **algorithm** — OAuth 2.0 security pitfalls
 - `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
 - `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
+- `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
