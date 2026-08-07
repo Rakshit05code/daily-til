@@ -253,3 +253,4 @@
 - `2026-08-07` 📚 **til** — React useCallback and useMemo
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
+- `2026-08-07` 📋 **cheatsheet** — PWA service workers
