@@ -250,3 +250,4 @@
 - `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
 - `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
 - `2026-08-06` 💡 **snippet** — Content Security Policy deep dive
+- `2026-08-07` 📚 **til** — React useCallback and useMemo
