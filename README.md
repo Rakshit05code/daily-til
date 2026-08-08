@@ -256,3 +256,4 @@
 - `2026-08-07` 📋 **cheatsheet** — PWA service workers
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
+- `2026-08-08` 📚 **til** — OWASP Broken Access Control
