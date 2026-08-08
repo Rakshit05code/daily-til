@@ -257,3 +257,4 @@
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
 - `2026-08-07` 📓 **data** — Clickjacking and X-Frame-Options
 - `2026-08-08` 📚 **til** — OWASP Broken Access Control
+- `2026-08-08` 💡 **snippet** — JavaScript closures
